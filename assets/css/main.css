@@ -1,7 +1,11 @@
 .deneme {
-    width: 800px;
-    height: 600px;
-    border: 1px solid #f00;
+    border: 5px solid #f00;
+    width: 40%;
+    height: 20rem;
+
+
+
+    /* ! BACKGROUND */
 
     /*background-color: rgba(98, 175, 229, 1);*/
     /*yorum satırı*/
@@ -23,7 +27,53 @@
     background-position: 100px 40px 40px;
     */
 
+    /*
     background-image: url(../images/14092.jpg);
     background-size: contain;
     background-repeat: no-repeat;
+    */
+
+    /* ! BORDER */
+
+    /*
+    border-width: 10px;
+    border-color: #f00;
+    border-style: solid;
+    */
+
+    /*
+    border-top: 20px solid #00f;
+    border-right: 10px dotted #f00;
+    border-bottom: 5px dashed #000;
+    border-left: 15px double #0f0;
+    */
+
+    /*
+    border: 20px #f00 solid;
+    */
+
+    /*
+    border-width: 20px 10px 5px 15px;
+    border-style: solid;
+    border-color:  #f00;
+    */
+
+    float: left;
+    padding: 30px 0 0 10px;
+}
+.deneme-2{
+    border: 5px solid #0f0;
+    float: left;
+
+    /* ! MARGIN - dışardan boşluk veriyor */
+    /*
+    margin: 20px;
+    margin: 20px 10px;
+    margin: 20px 10px 30px;
+    margin: 20px 10px 30px 10px;
+    */
+    margin: 5px 0 0 0;
+
+    /* ! PADDING - içerden boşluk veriyor */
+    padding: 5px 10px;
 }
