@@ -1,0 +1,29 @@
+.deneme {
+    width: 800px;
+    height: 600px;
+    border: 1px solid #f00;
+
+    /*background-color: rgba(98, 175, 229, 1);*/
+    /*yorum satırı*/
+
+    /*background-color: black;
+    background-image:
+        radial-gradient(white, rgba(255, 255, 255, .2) 2px, transparent 40px),
+        radial-gradient(white, rgba(255, 255, 255, .15) 1px, transparent 30px),
+        radial-gradient(white, rgba(255, 255, 255, .1) 2px, transparent 40px),
+        radial-gradient(rgba(255, 255, 255, .4), rgba(255, 255, 255, .1) 2px, transparent 30px);
+    background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;*/
+
+    /*background-image: url(../images/5.jpg);
+    background-repeat: repeat;*/
+
+    /*
+    background-image: url(../images/3.jpg);
+    background-repeat: no-repeat;
+    background-position: 100px 40px 40px;
+    */
+
+    background-image: url(../images/14092.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
