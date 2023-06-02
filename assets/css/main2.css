@@ -1,0 +1,19 @@
+.box{
+    width: 400px;
+    min-height: 150px;
+    border: 10px solid #f00;
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    text-align: justify;
+}
+/*
+.box > h3{
+    text-align: center;
+}
+*/
+
+.box > h3:first-of-type{
+    text-align: center;
+}
+
