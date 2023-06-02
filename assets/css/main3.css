@@ -1,0 +1,27 @@
+.box{
+    width: 400px;
+    min-height: 150px;
+    border: 10px solid #f00;
+    margin: auto;
+    padding: 10px 20px;
+    text-align: justify;
+}
+
+.box{
+    text-align: center;
+}
+
+.box > p.ilk{
+    color: #333;
+    text-decoration: underline;
+}
+
+.box > p.iki{
+    color: #0f0;
+    text-decoration: underline;
+}
+
+.box > p.ilk > a.link{
+    color: #f00;
+    text-decoration: none;
+}
